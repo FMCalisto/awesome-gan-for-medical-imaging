@@ -196,6 +196,10 @@ To complement or correct it, please contact me at xiy525@mail.usask.ca or send a
 - [Joint Registration And Segmentation Of Xray Images Using Generative Adversarial Networks] [[scholar]](https://scholar.google.ca/scholar?hl=en&as_sdt=0%2C5&q=Joint+Registration+And+Segmentation+Of+Xray+Images+Using+Generative+Adversarial+Networks&btnG=) [[MLMI2018]](https://link.springer.com/chapter/10.1007/978-3-030-00919-9_9)
 
 
+# User Interface
+- [Towards Touch-Based Medical Image Diagnosis Annotation] [[ISS2017]](https://dl.acm.org/citation.cfm?id=3134111)
+
+
 
 
 # Others
